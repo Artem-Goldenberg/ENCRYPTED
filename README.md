@@ -1,6 +1,9 @@
 # ENCRYPTED
 Encrypted Go Server
 
+With PROFESSIONAL BUILD SYSTEM
+
+
 ```
 cd encrypter009222z
 make
