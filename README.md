@@ -1,7 +1,7 @@
 # ENCRYPTED
 Encrypted Go Server
 
-With PROFESSIONAL BUILD SYSTEM
+With PROFESSIONAL build system
 
 
 ```
